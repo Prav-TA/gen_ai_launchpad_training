@@ -1,0 +1,7 @@
+*.csv
+*.xlsx
+!*.py
+!*.ipynb
+!*.yaml
+!.gitkeep
+!.gitignore

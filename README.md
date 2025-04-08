@@ -1,3 +1,3 @@
-# Gen_AI_launchpad_training
+# Gen_AI_launchpad_training - WEEK2
 
-This is Week1 RAG assignment
+This is Week2 RAG assignment
