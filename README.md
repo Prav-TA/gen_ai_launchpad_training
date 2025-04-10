@@ -1,3 +1,3 @@
-### Gen_AI_launchpad_training - WEEK1
+# Gen_AI_launchpad_training
 
-This is Week1 NLP Classification assignment
+This is Week1 RAG assignment
